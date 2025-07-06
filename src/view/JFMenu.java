@@ -1,7 +1,7 @@
 package view;
 
 public class JFMenu extends javax.swing.JFrame {
-
+    //PROYECTO FINAL
     public JFMenu() {
         initComponents();
         setLocationRelativeTo(null);
