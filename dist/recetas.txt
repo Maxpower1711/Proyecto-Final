@@ -1,0 +1,15 @@
+Producto: Analgesicos 
+Precio: 5.0
+Cantidad Vendida: 10
+Stock Actual: 190
+---------------------------------
+Producto: Inmunológicos
+Precio: 5.0
+Cantidad Vendida: 10
+Stock Actual: 190
+---------------------------------
+Producto: Antiparasitarios
+Precio: 5.0
+Cantidad Vendida: 10
+Stock Actual: 190
+---------------------------------
